@@ -105,5 +105,5 @@ For each query, output a single integer:
 ### Output
 
 ```text
-12
+13
 ```
