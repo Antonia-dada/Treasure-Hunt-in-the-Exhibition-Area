@@ -4,8 +4,7 @@
 
 You are given a two-dimensional grid of size `n × n`.
 
-The outer boundary of the grid is surrounded by walls.  
-That is, every cell whose row index or column index equals `0` or `n + 1`
+The outer boundary of the grid is surrounded by walls; that is, every cell whose row index or column index equals `0` or `n + 1`
 is considered a wall cell.
 
 Inside the grid, there are additionally `m` wall cells,
