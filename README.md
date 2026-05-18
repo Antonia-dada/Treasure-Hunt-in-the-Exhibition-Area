@@ -2,7 +2,7 @@
 
 ## Description
 
-You are given a two-dimensional grid of size 'n × n`.
+You are given a two-dimensional grid of size `n × n`.
 
 The outer boundary of the grid is surrounded by walls.  
 That is, every cell whose row index or column index equals `0` or `n + 1`
